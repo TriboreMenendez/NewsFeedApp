@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новостная лента</string>
+    <string name="title">Заголовок</string>
+    <string name="image_news">Фото новости</string>
+    <string name="desription">Описание</string>
+    <string name="date">Дата публикации</string>
+    <string name="news">Новости</string>
+    <string name="bookmarks">Избранное</string>
+</resources>
